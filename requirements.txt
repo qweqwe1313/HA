@@ -1,4 +1,5 @@
 Flask
-undetected-chromedriver
-selenium
 requests
+selenium
+undetected-chromedriver
+gunicorn
